@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import myPhoto from '../assets/myphoto.jpg'; 
+import myPhoto from '../assets/myphoto.png'; 
 import GoToTop from './GoToTop';
 import { useInView } from 'react-intersection-observer'; // Import useInView hook
 
