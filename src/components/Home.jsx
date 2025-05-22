@@ -48,7 +48,7 @@ const Home = () => {
           </h2>
         </div>
         <br />
-        <a href="Prachita Singh - Resume.pdf" download rel="noopener noreferrer">
+        <a href="/myresume.pdf" download rel="noopener noreferrer">
           <motion.button
             initial={{ opacity: 0, y: 50 }}
             animate={{ opacity: 1, y: 0 }}
